@@ -1,4 +1,4 @@
-package com.example.jenkinstest;
+package com.adeptpros.jenkinstest;
 
 import android.app.Activity;
 import android.os.Bundle;
